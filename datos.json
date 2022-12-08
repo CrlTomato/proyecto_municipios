@@ -1,0 +1,798 @@
+{
+	"estado": 
+	[
+		{
+			"nombre": "Aguascalientes",
+			"municipio": 
+			[
+					{
+					"nom": "Calvillo",
+					"img": ["assets/c1.jpeg", "assets/c2.jpeg", "assets/c3.jpeg", "assets/c4.jpg"]
+				}, 
+				{
+					"nom": "Jesus Maria",
+					"img": ["assets/jesusmaria_1.jpg", "assets/jesusmaria_2.jpg", "assets/jesusmaria_3.jpeg", "assets/jesusmaria_4.jpg"]
+				}, 
+				{
+					"nom": "Cosio",
+					"img": ["assets/cosio_1.jpg", "assets/cosio_2.jpg", "assets/cosio_3.jpg", "assets/cosio_4.jpg"]
+				}, 
+				{
+					"nom": "Tepezala",
+					"img": ["assets/tepezala_1.jpeg", "assets/tepezala_2.jpg", "assets/tepezala_3.png", "assets/tepezala_4.jpeg"]
+				},
+				{
+					"nom": "San Francisco de los romo",
+					"img": ["assets/pako_1.jpg", "assets/pako_2.jpeg", "assets/pako_3.jpeg", "assets/pako_4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Baja California",
+			"municipio": 
+			[
+					{
+					"nom": "Ensenada",
+					"img": ["assets/ensenada_1.jpeg", "assets/ensenada_2.jpeg", "assets/ensenada_3.jpg", "assets/ensenada_4.jpeg"]
+				}, 
+				{
+					"nom": "Mexicali",
+					"img": ["assets/mexicali_1.jpeg", "assets/mexicali_2.jpeg", "assets/mexicali_3.jpeg", "assets/mexicali_4.jpg"]
+				}, 
+				{
+					"nom": "Tecate",
+					"img": ["assets/tecate_1.jpeg", "assets/tecate_2.jpeg", "assets/tecate_3.jpg", "assets/tecate_4.jpeg"]
+				}, 
+				{
+					"nom": "Tijuana",
+					"img": ["assets/tijuana_1.jpeg", "assets/tijuana_2.jpg", "assets/tijuana_3.jpg", "assets/tijuana_4.jpg"]
+				},
+				{
+					"nom": "Playas de Rosarito",
+					"img": ["assets/playasderosarito_1.jpeg", "assets/playasderosarito_2.jpeg", "assets/playasderosarito_3.jpeg", "assets/playasderosarito_4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Baja California Sur",
+			"municipio": 
+			[
+					{
+					"nom": "Comondu",
+					"img": ["assets/comondu_1.jpg", "assets/comondu_2.jpeg", "assets/comondu_3.jpeg", "assets/comondu_4.jpeg"]
+				}, 
+				{
+					"nom": "Mulege",
+					"img": ["assets/mulege_1.jpeg", "assets/mulege_2.jpg", "assets/mulege_3.jpg", "assets/mulege_4.jpg"]
+				}, 
+				{
+					"nom": "La Paz",
+					"img": ["assets/laPaz_1.jpeg", "assets/laPaz_2.jpeg", "assets/laPaz_3.jpg", "assets/laPaz_4.jpeg"]
+				}, 
+				{
+					"nom": "Los Cabos",
+					"img": ["assets/losCabos_1.jpeg", "assets/losCabos_2.jpeg", "assets/losCabos_3.jpg", "assets/losCabos_4.jpeg"]
+				},
+				{
+					"nom": "Loreto",
+					"img": ["assets/loreto_1.jpeg", "assets/loreto_2.jpeg", "assets/loreto_3.jpg", "assets/loreto_4.jpeg"]
+				}
+			]
+		},
+		{
+			"nombre": "Campeche",
+			"municipio": 
+			[
+					{
+					"nom": "Campeche",
+					"img": ["assets/campeche_1.jpeg", "assets/campeche_2.jpg", "assets/campeche_3.jpg", "assets/campeche_4.jpg"]
+				}, 
+				{
+					"nom": "Carmen",
+					"img": ["assets/carmen_1.jpg", "assets/carmen_2.jpg", "assets/carmen_3.jpg", "assets/carmen_4.jpeg"]
+				}, 
+				{
+					"nom": "Calkini",
+					"img": ["assets/calkini_1.jpeg", "assets/calkini_2.jpg", "assets/calkini_3.jpeg", "assets/calkini_4.jpeg"]
+				}, 
+				{
+					"nom": "Escarcega",
+					"img": ["assets/escarcega_1.jpeg", "assets/escarcega_2.jpeg", "assets/escarcega_3.jpg", "assets/escarcega_4.jpg"]
+				},
+				{
+					"nom": "Hopelchen",
+					"img": ["assets/hopelchen_1.jpg", "assets/hopelchen_2.jpeg", "assets/hopelchen_3.jpeg", "assets/hopelchen_4.png"]
+				}
+			]
+		},
+
+		{
+			"nombre": "Ciudad de Mexico",
+			"municipio": 
+			[
+					{
+					"nom": "Azcapotzalco",
+					"img": ["assets/azcapotzalco_1.jpeg", "assets/azcapotzalco_2.jpeg", "assets/azcapotzalco_3.jpeg", "assets/azcapotzalco_4.jpeg"]
+				}, 
+				{
+					"nom": "Coyoacan",
+					"img": ["assets/coyoacan_1.jpeg", "assets/coyoacan_2.jpeg", "assets/coyoacan_3.jpeg", "assets/coyoacan_4.jpeg"]
+				}, 
+				{
+					"nom": "Iztapalapa",
+					"img": ["assets/iztapalapa_1.jpeg", "assets/iztapalapa_2.jpeg", "assets/iztapalapa_3.jpeg", "assets/iztapalapa_4.jpeg"]
+				}, 
+				{
+					"nom": "Miguel Hidalgo",
+					"img": ["assets/miguel_1.jpeg", "assets/miguel_2.jpeg", "assets/miguel_3.jpeg", "assets/miguel_4.jpeg"]
+				},
+				{
+					"nom": "Tlapan",
+					"img": ["assets/tlapan_1.jpeg", "assets/tlapan_2.jpeg", "assets/tlapan_3.jpeg", "assets/tlapan_4.jpeg"]
+				}
+			]
+		},
+		{
+			"nombre": "Chiapas",
+			"municipio": 
+			[
+					{
+					"nom": "Aldama",
+					"img": ["assets/aldama_1.jpg", "assets/aldama_2.jpg", "assets/aldama_3.jpg", "assets/aldama_4.jpg"]
+				}, 
+				{
+					"nom": "Cintalapa",
+					"img": ["assets/cintalapa_1.jpeg", "assets/cintalapa_2.jpg", "assets/cintalapa_3.jpg", "assets/cintalapa_4.jpg"]
+				}, 
+				{
+					"nom": "Comitan de Dominguez",
+					"img": ["assets/Comitan_1.jpg", "assets/comitan_2.jpg", "assets/comitan_3.jpeg", "assets/comitan_4.jpg"]
+				}, 
+				{
+					"nom": "Tuxtla Chico",
+					"img": ["assets/tuxtlac_1.jpg", "assets/tuxtla_2.jpg", "assets/tuxtlac_3.jpeg", "assets/tuxtlac_4.jpg"]
+				},
+				{
+					"nom": "Tuxtla Gutiérrez",
+					"img": ["assets/tuxtla_1.jpg", "assets/tuxtla_2.jpg", "assets/tuxtla_3.jpg", "assets/tuxtla_4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Chihuahua",
+			"municipio": 
+			[
+					{
+					"nom": "Parral",
+					"img": ["assets/parral_1.jpg", "assets/parral_2.jpg", "assets/parral_3.jpeg", "assets/parral_4.jpg"]
+				}, 
+				{
+					"nom": "Jiménez",
+					"img": ["assets/jimenez_1.jpg", "assets/jimenez_2.jpg", "assets/jimenez_3.jpg", "assets/jimenez_4.jpeg"]
+				}, 
+				{
+					"nom": "Cuahtémoc",
+					"img": ["assets/cuahtemoc_1.jpg", "assets/cuahtemoc_2.jpg", "assets/cuahtemoc_3.jpg", "assets/cuahtemoc_4.jpg"]
+				}, 
+				{
+					"nom": "Ciudad Juárez",
+					"img": ["assets/cdjuarez_1.jpg", "assets/cdjuarez_2.jpeg", "assets/cdjuarez_3.jpg", "assets/cdjuarez_4.jpg"]
+				},
+				{
+					"nom": "Chihuahua M",
+					"img": ["assets/chihuahuam_1.jpeg", "assets/chihuahuam_2.jpeg", "assets/chihuahuam_3.jpeg", "assets/chihuahuam_4.jpeg"]
+				}
+			]
+		},
+		{
+			"nombre": "Coahuila",
+			"municipio": 
+			[
+					{
+					"nom": "Arteaga",
+					"img": ["assets/arteaga_1.jpeg", "assets/arteaga_2.jpeg", "assets/arteaga_3.jpeg", "assets/arteaga_4.jpeg"]
+				}, 
+				{
+					"nom": "Frontera",
+					"img": ["assets/frontera_1.jpeg", "assets/frontera_2.jpeg", "assets/frontera_3.jpeg", "assets/frontera_4.jpeg"]
+				}, 
+				{
+					"nom": "Matamoros",
+					"img": ["assets/matamoros_1.jpeg", "assets/matamoros_2.jpeg", "assets/matamoros_3.jpeg", "assets/matamoros_4.jpeg"]
+				}, 
+				{
+					"nom": "Saltillo",
+					"img": ["assets/saltillo_1.jpeg", "assets/saltillo_2.jpeg", "assets/saltillo_3.jpeg", "assets/saltillo_4.jpeg"]
+				},
+				{
+					"nom": "Torreón",
+					"img": ["assets/torreon_1.jpeg", "assets/torreon_2.jpeg", "assets/torreon_3.jpeg", "assets/torreon_4.jpeg"]
+				}
+			]
+		},
+
+		{
+			"nombre": "Colima",
+			"municipio": [{
+					"nom": "Armeria",
+					"img": ["assets/armeria_1.jpg", "assets/armeria_2.jpg", "assets/armeria_3.jpg", "assets/armeria_4.jpg"]
+				},
+				{
+					"nom": "Colima",
+					"img": ["assets/Colima1.jpg", "assets/Colima2.jpg", "assets/Colima3.jpg", "assets/Colima4.jpg"]
+				},
+				{
+					"nom": "Cuauhtemoc",
+					"img": ["assets/Cuauhtemoc1.jpg", "assets/Cuauhtemoc2.jpg", "assets/Cuauhtemoc3.jpg", "assets/Cuauhtemoc4.jpg"]
+				},
+				{
+					"nom": "Manzanillo",
+					"img": ["assets/Manzanillo1.jpg", "assets/Manzanillo2.jpg", "assets/Manzanillo3.jpg", "assets/Manzanillo4.jpg"]
+				},
+				{
+					"nom": "Villa de Alvarez",
+					"img": ["assets/VilladeAlvarez1.jpg", "assets/VilladeAlvarez2.jpg", "assets/VilladeAlvarez3.jpg", "assets/VilladeAlvarez4.jpg"]
+				}
+
+			]
+		},
+
+		{
+			"nombre": "Durango",
+			"municipio": [{
+					"nom": "Canatlan",
+					"img": ["assets/Canatlan1.jpg", "assets/Canatlan2.jpg", "assets/Canatlan3.jpg", "assets/Canatlan4.jpg"]
+				},
+				{
+					"nom": "Lerdo",
+					"img": ["assets/lerdo1.jpg", "assets/lerdo2.jpg", "assets/lerdo3.jpg", "assets/lerdo4.jpg"]
+				},
+				{
+					"nom": "Mezquitlan",
+					"img": ["assets/Mezquital1.jpg", "assets/Mezquital2.jpg", "assets/Mezquital3.jpg", "assets/Mezquital4.jpg"]
+				},
+				{
+					"nom": "Pueblo Nuevo",
+					"img": ["assets/PuebloNuevo1.jpg", "assets/PuebloNuevo2.jpg", "assets/PuebloNuevo3.jpg", "assets/PuebloNuevo4.jpg"]
+				},
+				{
+					"nom": "Vilcente Guerrero",
+					"img": ["assets/VicenteGuerrero1.jpg", "assets/VicenteGuerrero2.jpg", "assets/VicenteGuerrero3.jpg", "assets/VicenteGuerrero4.jpg"]
+				}
+
+			]
+		},
+		{
+			"nombre": "Estado de Mexico",
+			"municipio": [{
+					"nom": "AtizapandeZaragoza",
+					"img": ["assets/atizapanzaragoza1.jpg", "assets/atizapanzaragoza2.jpg", "assets/atizapanzaragoza3.jpg", "assets/atizapanzaragoza4.jpg"]
+				},
+				{
+					"nom": "Calimaya",
+					"img": ["assets/Calimaya1.jpg", "assets/Calimaya2.jpg", "assets/Calimaya3.jpg", "assets/Calimaya4.jpg"]
+				},
+				{
+					"nom": "Chalco",
+					"img": ["assets/Chalco1.jpg", "assets/Chalco2.jpg", "assets/Chalco3.jpg", "assets/Chalco4.jpg."]
+				},
+				{
+					"nom": "Tecamac",
+					"img": ["assets/Tecamac1.jpg", "assets/Tecamac2.jpg", "assets/Tecamac3.jpg", "assets/Tecamac4.jpg"]
+				},
+				{
+					"nom": "Zumpango",
+					"img": ["assets/Zumpango1.jpg", "assets/Zumpango2.jpg", "assets/Zumpango3.jpg", "assets/VicenteGuerrero4.jpg"]
+				}
+
+			]
+		},
+
+		{
+			"nombre": "Guanajuato",
+			"municipio": [{
+					"nom": "Abasolo",
+					"img": ["assets/Abasolo1.jpg", "assets/Abasolo2.jpg", "assets/Abasolo3.jpg", "assets/Abasolo4.jpg"]
+				},
+				{
+					"nom": "Celaya",
+					"img": ["assets/celaya1.jpg", "assets/celaya2.jpg", "assets/celaya3.jpg", "assets/celaya4.jpg"]
+				},
+				{
+					"nom": "Leon",
+					"img": ["assets/Leon1.jpg", "assets/Leon2.jpg", "assets/Leon3.jpg", "assets/Leon4.jpg"]
+				},
+				{
+					"nom": "Ocampo",
+					"img": ["assets/Ocampo1.jpg", "assets/Ocampo2.jpg", "assets/Ocampo3.jpg", "assets/Ocampo4.jpg"]
+				},
+				{
+					"nom": "Uriangato",
+					"img": ["assets/Uriangato1.jpg", "assets/Uriangato2.jpg", "assets/Uriangato3.jpg", "assets/Uriangato4.jpg"]
+				}
+
+			]
+		},
+
+		{
+			"nombre": "Guerrero",
+			"municipio": [{
+					"nom": "Chilapa de Álvarez",
+					"img": ["assets/chilapa_1.jpg", "assets/chilapa_2.jpg", "assets/chilapa_3.jpg", "assets/chilapa_4.jpg"]
+				},
+				{
+					"nom": "Acapulco de Juárez",
+					"img": ["assets/Acapulco_1.jpg", "assets/Acapulco_2.jpg", "assets/Acapulco_3.jpg", "assets/Acapulco_4.jpg"]
+				},
+				{
+					"nom": "Chilpacingo de los Bravos",
+					"img": ["assets/Chilpancingo_1.jpg", "assets/Chilpancingo_2.jpg", "assets/Chilpancingo_3.jpg", "assets/Chilpancingo_4.jpg"]
+				},
+				{
+					"nom": "Iguala De La Independencia",
+					"img": ["assets/Iguala_1.jpg", "assets/Iguala_2.jpg", "assets/Iguala_3.jpg", "assets/Iguala_4.jpg"]
+				},
+				{
+					"nom": "Zihuantanejo de Azueta",
+					"img": ["assets/Zihuatanejo_1.jpg", "assets/Zihuatanejo_2.jpg", "assets/Zihuatanejo_3.jpg", "assets/Zihuatanejo_4.jpg"]
+				}
+			]
+		}, {
+			"nombre": "Hidalgo",
+			"municipio": [{
+					"nom": "Huejutla de Reyes",
+					"img": ["assets/Huejutla_1.jpg", "assets/Huejutla_2.jpg", "assets/Huejutla_3.jpg", "assets/Huejutla_4.jpg"]
+				},
+				{
+					"nom": "Mineral de la Reforma",
+					"img": ["assets/Mineral_1.jpg", "assets/Mineral_2.jpg", "assets/Mineral_3.jpg", "assets/Mineral_4.jpg"]
+				},
+				{
+					"nom": "Pachuca de Soto",
+					"img": ["assets/Pachuca_1.jpg", "assets/Pachuca_2.jpg", "assets/Pachuca_3.jpg", "assets/Pachuca_4.jpg"]
+				},
+				{
+					"nom": "Tizayuca",
+					"img": ["assets/Tizayuca_1.jpg", "assets/Tizayuca_2.jpg", "assets/Tizayuca_3.jpg", "assets/Tizayuca_4.jpg"]
+				},
+				{
+					"nom": "Tula de Allende",
+					"img": ["assets/Tula_de_Allende_1.jpg", "assets/Tula_de_Allende_2.jpg", "assets/Tula_de_Allende_3.jpg", "assets/Tula_de_Allende_4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Jalisco",
+			"municipio": [{
+					"nom": "Tlajomulco de Zúñiga",
+					"img": ["assets/Tlajomulco_1.jpg", "assets/Tlajomulco_2.jpg", "assets/Tlajomulco_3.jpg", "assets/Tlajomulco_4.jpg"]
+				},
+				{
+					"nom": "Tonalá",
+					"img": ["assets/Tonala_1.jpg", "assets/Tonala_2.jpg", "assets/Tonala_3.jpg", "assets/Tonala_4.JPG"]
+				},
+				{
+					"nom": "Guadalajara",
+					"img": ["assets/Guadalajara_1.jpg", "assets/Guadalajara_2.jpg", "assets/Guadalajara_3.jpg", "assets/Guadalajara_4.jpg"]
+				},
+				{
+					"nom": "San Pedro",
+					"img": ["assets/San_Pedro_1.jpg", "assets/San_Pedro_2.jpg", "assets/San_Pedro_3.jpg", "assets/San_Pedro_4.jpg"]
+				},
+				{
+					"nom": "Zapopan",
+					"img": ["assets/Zapopan_1.jpg", "assets/Zapopan_2.jpg", "assets/Zapopan_3.jpg", "assets/Zapopan_4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Michoacán",
+			"municipio": [{
+					"nom": "Morelia",
+					"img": ["assets/Morelia_1.jpg", "assets/Morelia_2.jpg", "assets/Morelia_3.jpg", "assets/Morelia_4.jpg"]
+				},
+				{
+					"nom": "Tangamandapio",
+					"img": ["assets/Tangamandapio_1.jpg", "assets/Tangamandapio_2.jpg", "assets/Tangamandapio_3.jpg", "assets/Tangamandapio_4.jpg"]
+				},
+				{
+					"nom": "Uruapan",
+					"img": ["assets/Uruapan_1.jpg", "assets/Uruapan_2.jpg", "assets/Uruapan_3.jpg", "assets/Uruapan_4.JPG"]
+				},
+				{
+					"nom": "Zamora",
+					"img": ["assets/Zamora_1.jpg", "assets/Zamora_2.JPG", "assets/Zamora_3.jpg", "assets/Zamora_4.jpg"]
+				},
+				{
+					"nom": "Zitácuaro",
+					"img": ["assets/Zitacuaro_1.jpg", "assets/Zitacuaro_2.jpg", "assets/Zitacuaro_3.jpg", "assets/Zitacuaro_4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Morelos",
+			"municipio": [{
+					"nom": "Cuautla",
+					"img": ["assets/Cuautla_1.jpg", "assets/Cuautla_2.JPG", "assets/Cuautla_3.jpg", "assets/Cuautla_4.jpg"]
+				},
+				{
+					"nom": "Temixco",
+					"img": ["assets/Temixco_1.jpg", "assets/Temixco_2.jpg", "assets/Temixco_3.jpg", "assets/Temixco_4.jpg"]
+				},
+				{
+					"nom": "Cuernavaca",
+					"img": ["assets/Cuernavaca_1.jpg", "assets/Cuernavaca_2.jpg", "assets/Cuernavaca_3.jpg", "assets/Cuernavaca_4.jpg"]
+				},
+				{
+					"nom": "Jiutepec",
+					"img": ["assets/Jiutepec_1.jpg", "assets/Jiutepec_2.jpg", "assets/Jiutepec_3.jpg", "assets/Jiutepec_4.jpg"]
+				},
+				{
+					"nom": "Xochitepec",
+					"img": ["assets/Xochitepec_1.jpg", "assets/Xochitepec_2.jpg", "assets/Xochitepec_3.jpg", "assets/Xochitepec_4.jpg"]
+				}
+			]
+		},
+
+		{
+			"nombre": "Nayarit",
+			"municipio": [{
+					"nom": "Tepic",
+					"img": ["assets/Tepic_1.jpg", "assets/Tepic_2.jpg", "assets/Tepic_3.jpg", "assets/Tepic_4.jpg"]
+				},
+				{
+					"nom": "Tecuala",
+					"img": ["assets/Tecuala_1.jpg", "assets/Tecuala_2.jpg", "assets/Tecuala_3.jpg", "assets/Tecuala_4.jpg"]
+				},
+				{
+					"nom": "Ixtlán del Río",
+					"img": ["assets/Ixtlán_del_Río_1.jpg", "assets/Ixtlán_del_Río_2.jpg ", "assets/Ixtlán_del_Río_3.jpg ", "assets/Ixtlán_del_Río_4.jpg "]
+				},
+				{
+					"nom": "Compostela",
+					"img": ["assets/Compostela_1.jpg", "assets/Compostela_2.jpg", "assets/Compostela_3.jpg", "assets/Compostela_4.jpg"]
+				},
+				{
+					"nom": "Bahía de Banderas",
+					"img": ["assets/Bahía_de_Banderas_1.jpg", "assets/Bahía_de_Banderas_2.jpg", "assets/Bahía_de_Banderas_3.jpg", "assets/Bahía_de_Banderas_4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Nuevo León",
+			"municipio": [{
+					"nom": "Monterrey",
+					"img": ["assets/Monterrey_1.jpg", "assets/Monterrey_2.jpg", "assets/Monterrey_3.jpg", "assets/Monterrey_4.jpg"]
+				},
+				{
+					"nom": "San Pedro Garza García",
+					"img": ["assets/San_Pedro_Garza_García_1.jpg", "assets/San_Pedro_Garza_García_2.jpg", "assets/San_Pedro_Garza_García_3.jpg", "assets/San_Pedro_Garza_García_4.jpg"]
+				},
+				{
+					"nom": "Montemorelos",
+					"img": ["assets/Montemorelos_1.jpg", "assets/Montemorelos_2.jpg", "assets/Montemorelos_3.jpg", "assets/Montemorelos_4.jpg"]
+				},
+				{
+					"nom": "Linares",
+					"img": ["assets/Linares_1.jpg", "assets/Linares_2.jpg", "assets/Linares_3.jpg", "assets/Linares_4.jpg"]
+				},
+				{
+					"nom": "Galeana",
+					"img": ["assets/Galeana_1.jpg", "assets/Galeana_2.jpg", "assets/Galeana_3.jpg", "assets/Galeana_4.jpg"]
+				}
+
+			]
+		},
+
+		{
+			"nombre": "Oaxaca",
+			"municipio": [{
+					"nom": "Oaxaca de Juárez",
+					"img": ["assets/Oaxaca_de_Juárez_1.jpg", "assets/Oaxaca_de_Juárez_2.jpg", "assets/Oaxaca_de_Juárez_3.jpg", "assets/Oaxaca_de_Juárez_4.jpg"]
+				},
+				{
+					"nom": "Tlaxiaco",
+					"img": ["assets/Tlaxiaco_1.jpg", "assets/Tlaxiaco_2.jpg", "assets/Tlaxiaco_3.jpg", "assets/Tlaxiaco_4.jpg"]
+				},
+				{
+					"nom": "Santa María Huatulco",
+					"img": ["assets/Santa_María_Huatulco_1.jpg", "assets/Santa_María_Huatulco_2.jpg", "assets/Santa_María_Huatulco_3.jpg", "assets/Santa_María_Huatulco_4.jpg"]
+				},
+				{
+					"nom": "Santo Domingo Tehuantepec",
+					"img": ["assets/Santo_Domingo_Tehuantepec_1.jpg", "assets/Santo_Domingo_Tehuantepec_2.jpg", "assets/Santo_Domingo_Tehuantepec_3.jpg", "assets/Santo_Domingo_Tehuantepec_4.jpg"]
+				},
+				{
+					"nom": "Huautla de Jiménez",
+					"img": ["assets/Huautla_de_Jiménez_1.jpg", "assets/Huautla_de_Jiménez_2.jpg", "assets/Huautla_de_Jiménez_3.jpg", "assets/Huautla_de_Jiménez_4.jpg"]
+				}
+
+			]
+		},
+
+		{
+			"nombre": "Puebla",
+			"municipio": [{
+					"nom": "Puebla",
+					"img": ["assets/Puebla_1.jpg", "assets/Puebla_2.jpg", "assets/Puebla_3.jpg", "assets/Puebla_4.jpg"]
+				},
+				{
+					"nom": "Zacatlán",
+					"img": ["assets/Zacatlán_1.jpg", "assets/Zacatlán_2.jpg", "assets/Zacatlán_3.jpg", "assets/Zacatlán_4.jpg"]
+				},
+				{
+					"nom": "San Salvador el Verde",
+					"img": ["assets/San_Salvador_el_Verde_1.jpg", "assets/San_Salvador_el_Verde_2.jpg ", "assets/San_Salvador_el_Verde_3.jpg", "assets/San_Salvador_el_Verde_4.jpg"]
+				},
+				{
+					"nom": "San Pedro Cholula",
+					"img": ["assets/San_Pedro_Cholula_1.jpg", "assets/San_Pedro_Cholula_2.jpg", "assets/San_Pedro_Cholula_3.jpg", "assets/San_Pedro_Cholula_4.jpg"]
+				},
+				{
+					"nom": "Chignahuapan",
+					"img": ["assets/Chignahuapan_1.jpg", "assets/Chignahuapan_2.jpg", "assets/Chignahuapan_3.jpg", "assets/Chignahuapan_4.jpg"]
+				}
+
+			]
+		},
+
+		{
+			"nombre": "Querétaro",
+			"municipio": [{
+					"nom": "Querétaro",
+					"img": ["assets/Querétaro_1.jpg", "assets/Querétaro_2.jpg", "assets/Querétaro_3.jpg", "assets/Querétaro_4.jpg"]
+				},
+				{
+					"nom": "Tequisquiapan",
+					"img": ["assets/Zacatlán_1.jpg", "assets/Tequisquiapan_2.jpg", "assets/Tequisquiapan_3.jpg", "assets/Tequisquiapan_4.jpg"]
+				},
+				{
+					"nom": "San Juan del Río",
+					"img": ["assets/San_Juan_del_Río_1.jpg", "assets/San_Juan_del_Río_2.jpg ", "assets/San_Juan_del_Río_3.jpg", "assets/San_Salvador_el_Verde_4.jpg"]
+				},
+				{
+					"nom": "Pinal de Amoles",
+					"img": ["assets/Pinal_de_Amoles_1.jpg", "assets/Pinal_de_Amoles_2.jpg", "assets/Pinal_de_Amoles_3.jpg", "assets/San_Pedro_Cholula_4.jpg"]
+				},
+				{
+					"nom": "El Marqués",
+					"img": ["assets/El_Marqués_1.jpg", "assets/El_Marqués_2.jpg", "assets/El_Marqués_3.jpg", "assets/El_Marqués_4.jpg"]
+				}
+
+			]
+		},
+
+		{
+			"nombre": "Quintana Roo",
+			"municipio": [{
+					"nom": "Cozumel",
+					"img": ["assets/cozumel1.jpg", "assets/cozumel2.jpg", "assets/cozumel3.jpg", "assets/cozumel4.jpg"]
+				},
+				{
+					"nom": "Felipe Carrillo Puerto",
+					"img": ["assets/felipecarrillopuerto1.jpg", "assets/felipecarrillopuerto2.jpg", "assets/felipecarrillopuerto3.jpg", "assets/felipecarrillopuerto4.jpg"]
+				},
+				{
+					"nom": "Isla mujeres",
+					"img": ["assets/islamujeres1.jpg", "assets/islamujeres2.jpg", "assets/islamujeres3.jpg", "assets/islamujeres4.jpg"]
+				},
+				{
+					"nom": "Puerto Morelos",
+					"img": ["assets/puertomorelos1.jpg", "assets/puertomorelos2.jpg", "assets/puertomorelos3.jpg", "assets/puertomorelos4.jpg"]
+				},
+				{
+					"nom": "Tulúm",
+					"img": ["assets/tulum1.jpg", "assets/tulum2.jpg", "assets/tulum3.jpg", "assets/tulum4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "San Luis Potosí",
+			"municipio": [{
+					"nom": "Ahualulco",
+					"img": ["assets/ahualulco1.jpg", "assets/ahualulco2.jpg", "assets/ahualulco3.jpg", "assets/ahualulco4.jpg"]
+				},
+				{
+					"nom": "Catorce",
+					"img": ["assets/catorce1.jpg", "assets/catorce2.jpg", "assets/catorce3.jpg", "assets/catorce4.jpg"]
+				},
+				{
+					"nom": "Ebano",
+					"img": ["assets/ebano1.jpg", "assets/ebano2.jpg", "assets/ebano3.jpg", "assets/ebano4.jpg"]
+				},
+				{
+					"nom": "El naranjo",
+					"img": ["assets/elnaranjo1.jpg", "assets/elnaranjo2.jpg", "assets/elnaranjo3.jpg", "assets/elnaranjo4.jpg"]
+				},
+				{
+					"nom": "Xilitla",
+					"img": ["assets/xilitla1.jpg", "assets/xilitla2.jpg", "assets/xilitla3.jpg", "assets/xilitla4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Sinaloa",
+			"municipio": [{
+					"nom": "Ahome",
+					"img": ["assets/ahome1.jpg", "assets/ahome2.jpg", "assets/ahome3.jpeg", "assets/ahome4.jpg"]
+				},
+				{
+					"nom": "Culiacán",
+					"img": ["assets/culiacan1.jpg", "assets/culiacan2.jpg", "assets/culiacan3.jpg", "assets/culiacan4.jpg"]
+				},
+				{
+					"nom": "El fuerte",
+					"img": ["assets/elfuerte1.jpg", "assets/elfuerte2.jpg", "assets/elfuerte3.jpg", "assets/elfuerte4.jpg"]
+				},
+				{
+					"nom": "Mazatlán",
+					"img": ["assets/mazatlan1.jpg", "assets/mazatlan2.jpg", "assets/mazatlan3.jpg", "assets/mazatlan4.jpg"]
+				},
+				{
+					"nom": "Salvador",
+					"img": ["assets/salvador1.jpg", "assets/salvador2.jpg", "assets/salvador3.jpg", "assets/salvador4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Sonora",
+			"municipio": [{
+					"nom": "Alamos",
+					"img": ["assets/alamos1.jpg", "assets/alamos2.jpg", "assets/alamos3.jpg", "assets/alamos4.jpg"]
+				},
+				{
+					"nom": "Benito Juárez",
+					"img": ["assets/benitojuarez1.jpg", "assets/benitojuarez2.jpg", "assets/benitojuarez3.jpg", "assets/benitojuarez4.jpg"]
+				},
+				{
+					"nom": "Hermosillo",
+					"img": ["assets/hermosillo1.jpg", "assets/hermosillo2.jpg", "assets/hermosillo3.jpg", "assets/hermosillo4.jpg"]
+				},
+				{
+					"nom": "Rosario",
+					"img": ["assets/rosario1.jpg", "assets/rosario2.jpg", "assets/rosario3.jpg", "assets/rosario4.jpg"]
+				},
+				{
+					"nom": "Ures",
+					"img": ["assets/ures1.jpg", "assets/ures2.jpg", "assets/ures3.jpg", "assets/ures4.jpg"]
+				}
+			]
+		},
+		{
+			"nombre": "Tabasco",
+			"municipio": [{
+					"nom": "Centro",
+					"img": ["assets/centro1.jpg", "assets/centro2.jpg", "assets/centro3.jpg", "assets/centro4.jpg"]
+				},
+				{
+					"nom": "Jalapa",
+					"img": ["assets/jalapa1.jpg", "assets/jalapa2.jpg", "assets/jalapa3.jpg", "assets/jalapa4.jpg"]
+				},
+				{
+					"nom": "Macuspana",
+					"img": ["assets/macuspana1.jpg", "assets/macuspana2.jpg", "assets/macuspana3.jpg", "assets/macuspana4.jpg"]
+				},
+				{
+					"nom": "Paraíso",
+					"img": ["assets/paraiso1.jpg", "assets/paraiso2.jpg", "assets/paraiso3.jpg", "assets/paraiso4.jpg"]
+				},
+				{
+					"nom": "Teapa",
+					"img": ["assets/teapa1.jpg", "assets/teapa2.jpg", "assets/teapa3.jpg", "assets/teapa4.jpg"]
+				}
+			]
+		},
+
+
+		{
+			"nombre": "Tamaulipas",
+			"municipio": 
+			[
+					{
+					"nom": "Cd.Victoria",
+					"img": ["assets/victoria1.png", "assets/victoria2.png", "assets/victoria3.png", "assets/victoria4.png"]
+				}, {
+					"nom": "Tampico",
+					"img": ["assets/tampico1.png", "assets/tampico2.png", "assets/tampico3.png", "assets/tampico4.png"]
+				}, {
+					"nom": "Matamoros",
+					"img": ["assets/matamoros1.png", "assets/matamoros2.png", "assets/matamoros3.png", "assets/matamoros4.png"]
+				}, {
+					"nom": "Reynosa",
+					"img": ["assets/reynosa1.jpg", "assets/reynosa2.jpg", "assets/reynosa3.jpg", "assets/reynosa4.jpeg"]
+				},{
+					"nom": "Llera",
+					"img": ["assets/llera1.png", "assets/llera2.png", "assets/llera3.png", "assets/llera4.png"]
+				}
+			]
+		},
+		{
+			"nombre": "Tlaxcala",
+			"municipio": 
+			[
+					{
+					"nom": "Tlaxcala de Xicohténcatl",
+					"img": ["assets/tlaxcala1.png", "assets/tlaxcala2.png", "assets/tlaxcala3.png", "assets/tlaxcala4.png"]
+				}, {
+					"nom": "Españita",
+					"img": ["assets/españita1.png", "assets/españita2.png", "assets/españita3.png", "assets/españita4.png"]
+				}, {
+					"nom": "Tlaxco",
+					"img": ["assets/tlaxco1.png", "assets/tlaxco2.png", "assets/tlaxco3.png", "assets/tlaxco4.png"]
+				}, {
+					"nom": "Apizaco",
+					"img": ["assets/apizaco1.png", "assets/apizaco2.png", "assets/apizaco3.png", "assets/apizaco4.png"]
+				},{
+					"nom": "Nativitas",
+					"img": ["assets/nativitas1.png", "assets/nativitas2.png", "assets/nativitas3.png", "assets/nativitas4.png"]
+				}
+			]
+		},
+		{
+			"nombre": "Veracruz",
+			"municipio": 
+			[
+					{
+					"nom": "Veracruz",
+					"img": ["assets/veracruz1.png", "assets/veracruz2.png", "assets/veracruz3.png", "assets/veracruz4.png"]
+				}, {
+					"nom": "Xalapa",
+					"img": ["assets/xalapa1.png", "assets/xalapa2.png", "assets/xalapa3.png", "assets/xalapa4.png"]
+				}, {
+					"nom": "Coatzacoalcos",
+					"img": ["assets/coatzacoalcos1.png", "assets/coatzacoalcos2.png", "assets/coatzacoalcos3.png", "assets/coatzacoalcos4.png"]
+				}, {
+					"nom": "Landero y Coss",
+					"img": ["assets/landero1.jpg", "assets/landero2.jpg", "assets/landero3.jpg", "assets/landero4.jpeg"]
+				},{
+					"nom": "Coetzala",
+					"img": ["assets/coetzala1.png", "assets/coetzala2.png", "assets/coetzala3.png", "assets/coetzala4.png"]
+				}
+			]
+		},
+		{
+			"nombre": "Yucatán",
+			"municipio": 
+			[
+					{
+					"nom": "Mérida",
+					"img": ["assets/merida1.png", "assets/merida2.png", "assets/merida3.png", "assets/merida4.png"]
+				}, {
+					"nom": "Kanasín",
+					"img": ["assets/kanasin1.png", "assets/kanasin2.png", "assets/kanasin3.png", "assets/kanasin4.png"]
+				}, {
+					"nom": "Valladolid",
+					"img": ["assets/valladolid1.png", "assets/valladolid2.png", "assets/valladolid3.png", "assets/valladolid4.png"]
+				}, {
+					"nom": "Tizimín",
+					"img": ["assets/reynosa1.jpg", "assets/reynosa2.jpg", "assets/reynosa3.jpg", "assets/reynosa4.jpeg"]
+				},{
+					"nom": "Umán",
+					"img": ["assets/uman1.png", "assets/uman2.png", "assets/uman3.png", "assets/uman4.png"]
+				}
+			]
+		},
+		{
+			"nombre": "Zacatecas",
+			"municipio": 
+			[
+					{
+					"nom": "Fresnillo",
+					"img": ["assets/fresnillo1.png", "assets/fresnillo2.png", "assets/fresnillo3.png", "assets/fresnillo4.png"]
+				}, {
+					"nom": "Guadalupe",
+					"img": ["assets/guadalupe1.png", "assets/guadalupe2.png", "assets/guadalupe3.png", "assets/guadalupe4.png"]
+				}, {
+					"nom": "Zacatecas",
+					"img": ["assets/zacatecas1.png", "assets/zacatecas2.png", "assets/zacatecas3.png", "assets/zacatecas4.png"]
+				}, {
+					"nom": "Pinos",
+					"img": ["assets/pinos1.png", "assets/pinos2.png", "assets/pinos3.png", "assets/pinos4.png"]
+				},{
+					"nom": "Río Grande",
+					"img": ["assets/riog1.png", "assets/riog2.png", "assets/riog3.png", "assets/riog4.png"]
+				}
+			]
+		}
+	]
+}

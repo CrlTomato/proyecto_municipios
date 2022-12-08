@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<title>Proyecto ITI</title>
+</head>
+<body>
+
+	<!-- Centro Pagina -->
+	<main class="main">
+		<div class="login">
+
+			<div class="izq">
+				<center>
+					<div class="i" id = "imagenes"></div>
+				</center>
+
+			</div>
+			
+			<div class="derch">
+				<div class="mitad">
+					<div>
+						<center>
+							<label>Seleccione un Estado</label>
+							<select id = "estados" name = "sele" onchange="obtenerMunicipios();" place>
+								<option value="vacio"> - - - - </option>
+							</select>
+							<br>
+							<label>Seleccione un Municipio</label>
+							<br>
+							<select id = "municipios" name = "selm" onchange="obtenerImagenes()" disabled>
+								<option value="vacio"> - - - - </option>
+							</select>
+						</center>
+					</div>
+					
+					<div>
+						<center id="mostrar"></center>
+						
+					</div>
+
+				</div>	
+			</div>
+		</div>
+	</main>
+	
+	<input type="hidden" id="json" name="json">
+
+	<script src="generacion.js"></script>
+</body>
+</html>
